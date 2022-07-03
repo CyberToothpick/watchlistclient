@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mingzat&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Mingzat&family=Roboto:wght@100&display=swap');
+
+* {
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+}
+
+input {
+  text-transform: none;
+}
+
+a {
+  text-decoration: none;
+}
